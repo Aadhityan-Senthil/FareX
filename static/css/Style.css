@@ -1,0 +1,32 @@
+body {
+    background-color: #AAE6FF;
+    background-image: url(flight.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: left;
+}
+
+.navbar {
+    background-color: rgba(255,255,255,0.5);
+    font-size: 20px;
+}
+.logo{
+    width: 60px;
+    cursor: pointer;
+}
+p{
+    font-size: 32px;
+    padding-left: 35px;
+}
+a {
+    color:black;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+h3{
+    font-size: 50px;
+    color: aliceblue;
+    text-align:center;
+}
