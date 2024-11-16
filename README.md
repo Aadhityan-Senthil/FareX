@@ -2,12 +2,8 @@
 
 **FareX** is a Python-based application designed to predict flight fares based on user-input travel details. This project leverages machine learning and data visualization to assist users in determining fare trends and making informed booking decisions.
 
----
-
 ## App Functionality
 ![](templates/App_Functionality.gif)
-
----
 
 ## 🚀 Project Overview  
 
@@ -22,16 +18,12 @@ This app predicts flight prices based on:
 - Stoppages.  
 - Airline carriers.  
 
----
-
 ## 🎯 Features  
 
 - **Fare Prediction**: Utilizes machine learning models like Random Forest, Decision Trees, and XGBoost.  
 - **Data Visualization**: Graphical representation of price trends for better decision-making.  
 - **User-friendly Interface**: Flask-powered application for a seamless user experience.  
 - **Model Evaluation**: Accuracy assessed through metrics like MAE, MSE, and R².
-
----
 
 ## 🛠️ How to Set Up  
 
@@ -40,7 +32,6 @@ Ensure the following are installed:
 - [Python 3.9+](https://www.python.org/downloads/)  
 - [Git](https://git-scm.com/downloads)  
 
----
 
 ### Steps to Run on Windows  
 
@@ -71,8 +62,6 @@ Ensure the following are installed:
    deactivate  
    ```
 
----
-
 ### Steps to Run on Mac/Linux  
 
 1. Clone the repository:  
@@ -102,8 +91,6 @@ Ensure the following are installed:
    deactivate  
    ```
 
----
-
 ## 📂 Project Structure  
 
 ```plaintext  
@@ -120,28 +107,20 @@ FareX/
 │   ├── a2_Unseen_Dataset.xlsx  
 │   ├── c2_ModelOutput.xlsx  
 └── b1_fare_prediction_model.ipynb  # Model training notebook  
-```  
-
----
+```
 
 ## 📊 Dataset  
 
 - Primary Dataset: [Kaggle - Flight Fare Prediction Dataset](https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh).  
 - Includes features like fare price, airline, departure/arrival times, and stoppages.
 
----
-
 ## 🔧 Bug Reports & Feature Requests  
 
 Found a bug or have an idea for improvement? Create an issue [here](https://github.com/Aadhityan-Senthil/FareX/issues) and let us know!
 
----
-
 ## 📜 License  
 
 This project is licensed under the [CC0 1.0 Universal (Public Domain Dedication)](LICENSE).
-
----
 
 ## 🔗 Important Links  
 
